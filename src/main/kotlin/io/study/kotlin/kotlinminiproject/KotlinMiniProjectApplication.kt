@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class KotlinMiniProjectApplication
 
 fun main(args: Array<String>) {
+    //window
     runApplication<KotlinMiniProjectApplication>(*args)
 }
